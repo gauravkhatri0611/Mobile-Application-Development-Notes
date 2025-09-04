@@ -1,0 +1,8 @@
+Creating Projects on Android studio:
+1. new project - empty view activity 
+Add Name , language - JAVA, 
+--> Main Activity java file 
+--> activity_main xml file 
+Then there is the layout file , you can create multiple layout files and use things to create -- Week 2 lab project task linear layout by creating multiple layout xml files.
+--> You need to add constraints on it for the buttons or any other thing to make it work.
+--> Learn to create calculator 
